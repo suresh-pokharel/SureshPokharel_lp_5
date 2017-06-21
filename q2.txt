@@ -1,0 +1,38 @@
+	var product;
+	var largestPalindrome = 0;
+	var firstNum = 0;
+	var secondNum = 0;
+	var lowerBound = 100; // setting boundaries for three digits
+	var upperBound = 999;
+
+	for (var i = lowerBound; i <= upperBound; i++) {
+		for (var j = lowerBound; j <= upperBound; j++) {
+			product = i * j;
+			if(checkPalindrome(product)){ // check if new product is palindrome
+				 if (product > largestPalindrome) { // check if new palindrome is greater than previous large one
+				 	firstNum = i;
+				 	secondNum = j;
+					largestPalindrome = product;					
+				 }
+			}
+
+		}
+	}
+
+	//show results
+	console.log("Numbers: " + firstNum + "*" + secondNum);
+	console.log("Largest Palindrome: " + largestPalindrome);
+	
+	function checkPalindrome(number){
+		var num = number; // duplicate original number
+		var reverse = 0;
+		// reverse the number
+		while(num!=0){
+			reverse = (reverse *10) + (num % 10);
+			num = Math.floor(num / 10); // remove the LS digit
+		}
+		
+		if (reverse == number) { // compare reversed number with original
+			return true;
+		}
+	}
