@@ -15,7 +15,6 @@
 					largestPalindrome = product;					
 				 }
 			}
-
 		}
 	}
 
@@ -36,3 +35,4 @@
 			return true;
 		}
 	}
+	
