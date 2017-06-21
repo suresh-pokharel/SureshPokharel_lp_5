@@ -4,11 +4,11 @@ Description: There are two fields Input 1  and Input 2 where Input 1 is dividend
 When user clicks on Divide button, division should be done and quotient shoul be displayed in Result textbox.
 
 Test Cases: 
-1. Click on the divide button with empty values in Input-1 and Input-2 to observe whether
-   it throws the validation messages or not.
-2. Enter invalid input (special characters, Alphabets) for both fields to check if it accepts
-only numbers or to verify the messages.
-3. Try entering zero (0) in divisor field (ie. Input-2) to check if it returns divide by zero error message.
+   1. Click on the divide button with empty values in Input-1 and Input-2 to observe whether
+      it throws the validation messages or not.
+   2. Enter invalid input (special characters, Alphabets) for both fields to check if it accepts
+      only numbers or to verify the messages.
+   3. Try entering zero (0) in divisor field (ie. Input-2) to check if it returns divide by zero error message.
 
 Expected Outcome: 
 The quotient after dividing Input-1 by Input-2 should be displayed in Result box.
