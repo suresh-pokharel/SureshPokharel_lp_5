@@ -10,7 +10,6 @@
 			var newString =  numbers.substring(i,i+subStringLength);
 			if (newString.search('0') != '-1' ) { // find if string contains 0 and skip further process as it returns 0
 				continue;
-				
 				/* find the position of 0 and change loop index i to skip unnecessary calculations. for eg. string is
 				1230456789 and substring length is 4. At first iteration, substring is 1230 so 0 is in position 3, 
 				so further three substrings 2304, 3045, 0456 will contain 0, so we can skip these calculation by 
