@@ -1,5 +1,7 @@
 # SureshPokharel_lp_5
-Solutions of question set no. 5 in JavaScript
+Solutions of question set no. 5 in JavaScript (logpoint)
+
+#### To compile code, run in any JS environment or paste code in console of browser and press enter.
 
 
 ## Q1. 
