@@ -1,12 +1,23 @@
- As the company is in early stage of starting up and requirements might be changed frequently so I prefer Agile Development Methodology as it is best approach to deliver quality product in changing environment.
-
- As a consultant or Project Manager, I will consider following aspects to fullfill my client's requirements in given scenario.
+ As the company is in early stage of starting up and requirements might be changed frequently so I prefer Agile Development Methodology
+ as it is best approach to deliver quality product in changing environment. And as a consultant or Project Manager,I will consider 
+ following aspects to fullfill my client's requirements in given scenario.
 
  - Gathering informations, retrieving the client's expection.
+
  - Preparing Software Requirement Specification.
- - Forming the best project team to meet the goal. As the business is about printing and designing, user interface and images might play vital role to influence the customers. So, keeping a creative designer will be good to make app/website aesthetically pleasing.
- - As the company is in starting phase, App or website should be made in such a way such that it helps in marketing the business. It should be search engines friendly and should have integration with social medias.
- - Solving the problems in divide and conquer approach reduces the complexity and make clear distinction between tasks, so it helps to make work efficient in teamwork.
- - Daily Interaction with team and time to time cooperation with client helps to make the project successful with expected performance, time and budget.
+
+ - Forming the best project team to meet the goal. As the business is about printing and designing, user interface and images might
+   play vital role to influence the customers. So, keeping a creative designer will be good to make app/website aesthetically pleasing.
+
+ - As the company is in starting phase, App or website should be made in such a way such that it helps in marketing the business.
+   It should be search engines friendly and should have integration with social medias.
+
+ - Solving the problems in divide and conquer approach reduces the complexity and make clear distinction between tasks,
+   so it helps to make work efficient in teamwork.
+
+ - Daily Interaction with team and time to time cooperation with client helps to make the project successful 
+   with expected performance, time and budget.
+
  - Use of version controlling tools like Git and project management application like Trello helps to keep track of works.
+ 
  - Validation and verification , Q/A Testing are to be done before handing over the project to the client.
