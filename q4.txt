@@ -1,8 +1,8 @@
  As the company is in early stage of starting up and requirements might be changed frequently so I prefer Agile Development Methodology
- as it is best approach to deliver quality product in changing environment. And as a consultant or Project Manager,I will consider 
- following aspects to fullfill my client's requirements in given scenario.
+ as it is best approach to deliver quality product in changing environment. And as a consultant or Project Manager, I will consider 
+ following aspects to fulfill my client's requirements in given scenario.
 
- - Gathering informations, retrieving the client's expection.
+ - Gathering information, retrieving the client's expectation.
 
  - Preparing Software Requirement Specification.
 
