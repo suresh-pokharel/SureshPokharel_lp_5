@@ -28,11 +28,20 @@ the thirteen adjacent digits in the 1000-digit number that have the greatest pro
 05886116467109405077541002256983155200055935729725
 71636269561882670428252483600823257530420752963450
 ```
+Output: 
+
+Product: ```23514624000```
+Combination: ```5576689664895```
 
 ## Q2.
 A palindromic number reads the same both ways. The largest palindome made from the product of two 2-digit 
 number is 9009 = 91 x 99.  
 Find the largest palindrome made from the product of two 3-digit numbers. 
+
+Output: 
+
+Numbers: ```913*993```
+Largest Palindrome: ```906609```
 
 ## Q3. 
 In the given division calculator Input1 and Input2 is divisor. When clicked on Divide Button, it should perform division of two numbers specified in the two fields and show the result on Result  textbox. How do you validate the application, write test scenarios.
